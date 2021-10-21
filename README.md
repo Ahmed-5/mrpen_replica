@@ -1,4 +1,4 @@
-# mrpen_replica
+# Mr.Pen replica
 A replica to 3rd place project in EEESE18 (Electric and Electronic Engineering Students Exhibition 2018) called mr.pen
 
 The idea of this project is to make a pen that can detect which letter you wrote with just the motion
